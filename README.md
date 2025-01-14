@@ -1,2 +1,1 @@
-# react-native-webview-push-notifications
-A repository for React Native WebView project with push notifications
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
